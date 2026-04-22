@@ -1,0 +1,20 @@
+{
+	"geode": "5.5.3",
+	"gd": {
+		"win": "2.2081",
+		"mac": "2.2081"
+	},
+	"id": "rgc-exists.playtest-with-web",
+	"name": "Playtest With Web",
+	"version": "v1.0.0",
+	"developer": "RGC Exists",
+	"description": "A mod that adds a button to play a level in the Web Demon List version of geometrydash.com",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	},
+	"resources": {
+		"sprites": [
+			"resources/web_title.png.png"
+		]
+	}
+}
