@@ -16,5 +16,13 @@
 		"sprites": [
 			"resources/web_title.png"
 		]
+	},
+	"settings": {
+		"enable-web-dash": {
+			"type": "bool",
+			"name": "Enable Scuffed Web Dash Fork Support",
+			"description": "NOT READY FOR USE YET! For now you need to go to the \"level search\" manually and press enter.",
+			"default": false
+		}
 	}
 }
