@@ -6,7 +6,7 @@
 	},
 	"id": "rgc-exists.playtest-with-web",
 	"name": "Playtest With Web",
-	"version": "v1.0.0-beta.1",
+	"version": "v1.0.0-beta.2",
 	"developer": "RGC Exists",
 	"description": "A mod that adds a button to play a level in the Web Demon List version of geometrydash.com",
 	"dependencies": {
